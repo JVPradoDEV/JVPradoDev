@@ -50,6 +50,8 @@
   <img src="https://media.tenor.com/Lc_SbzrO3EsAAAAi/ralsei-deltarune.gif" height=120px>
 </div>
 
+*Psiu! Uma curiosidade! Todo esse "README.MD" foi feito usando HTML, apenas está linha está sendo usada Markdown do próprio Github ;)*
+
 <h1 align=center>
   •────•───────•────••────•───────•────•
 </h1>
