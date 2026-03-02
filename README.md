@@ -24,7 +24,7 @@
 <div align=center>
   <h2>- Olá! Meu nome é João Vitor do Prado, e este é meu perfil do GitHub.👋</h2>
   <p>* Sou um programador Front-End <b>JÚNIOR</b> (E futuro full-stack), uso essa plataforma para fins de estudo e futuramente profissionais, 
-    encontrei uma paixão muito grande pela parte de Web-Design e Front-End ao geral e pretendo desenvolve-lá muito mais!</p>
+    encontrei uma paixão muito grande pela parte de Web-Design, Desenvolvimento Web e Front-End ao geral e pretendo desenvolve-lá muito mais!</p>
 </div>
 
 <!-- <div>
