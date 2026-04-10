@@ -12,13 +12,17 @@
   </h2>
 </div>
 <div align=center>
+ ─≪
   <img height=45px src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="JavaScript">
-  <img height=45px src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="">
-  <img height=45px src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="">
-  <img height=45px src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" alt="">
-  <img height=45px src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" alt="">
-  <img height=45px src="https://cdn-icons-png.flaticon.com/128/2420/2420464.png" alt="">
-  <img height=45px src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="">
+  <img height=45px src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS3">
+  <img height=45px src="https://cdn-icons-png.flaticon.com/128/1051/1051277.png" alt="HTML5">
+  <img height=45px src="https://cdn-icons-png.flaticon.com/128/5968/5968358.png" alt="SASS">
+  <img height=45px src="https://cdn-icons-png.flaticon.com/128/5968/5968322.png" alt="NodeJS">
+  <img height=45px src="https://cdn-icons-png.flaticon.com/128/2420/2420464.png" alt="Parsel">
+  <img height=45px src="https://cdn-icons-png.flaticon.com/128/15466/15466163.png" alt="Git">
+  <img height=45px src="https://cdn-icons-png.flaticon.com/128/3459/3459528.png" alt="React">
+  <img height=45px src="https://cdn-icons-png.flaticon.com/128/16763/16763261.png" alt="TypeScript">
+≫─
 </div>
 
 <div align=center>
